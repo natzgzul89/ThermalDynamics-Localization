@@ -21,7 +21,7 @@ tile.thermaldynamics.duct.itemEnder.name曲速物品導管
 
 tile.thermaldynamics.duct.structure.name=結構導管
 
-tile.thermaldynamics.duct.energySupercond.info=沒有殘餘的能量.
+tile.thermaldynamics.duct.energySupercond.info=不會有殘存的能量.
 
 tile.thermaldynamics.duct.fluidBasic.info=如果裝載太冰或太熱的液體將會爆裂.
 tile.thermaldynamics.duct.fluidHardened.info=可以裝載任何溫度的液體.
