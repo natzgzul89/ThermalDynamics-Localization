@@ -3,21 +3,21 @@ itemGroup.thermaldynamics.creativeTab=精煉機械動力學
 tile.thermaldynamics.duct=導管
 tile.thermaldynamics.duct.energyBasic.name=鉛石能量導管
 tile.thermaldynamics.duct.energyHardened.name=硬化能量導管
-tile.thermaldynamics.duct.energyReinforced.name=強化能量導管
+tile.thermaldynamics.duct.energyReinforced.name=紅石能量導管
 tile.thermaldynamics.duct.energyReinforcedEmpty.name=紅石能量導管 (空)
-tile.thermaldynamics.duct.energyResonant.name=紅石能量導管
+tile.thermaldynamics.duct.energyResonant.name=諧律紅石能量導管
 tile.thermaldynamics.duct.energyResonantEmpty.name=諧律能量導管 (空)
-tile.thermaldynamics.duct.energySuperconductor.name=穩定的低溫能量導管
-tile.thermaldynamics.duct.energySuperconductorEmpty.name=穩定的低溫能量導管 (空)
+tile.thermaldynamics.duct.energySuperconductor.name=穩定的冷凍能量導管
+tile.thermaldynamics.duct.energySuperconductorEmpty.name=穩定的冷凍能量導管 (空)
 
-tile.thermaldynamics.duct.fluidBasic.name=適中的液體導管
+tile.thermaldynamics.duct.fluidBasic.name=適度的液體導管
 tile.thermaldynamics.duct.fluidHardened.name=硬化液體導管
 tile.thermaldynamics.duct.fluidFlux.name=能量液體導管
 
 tile.thermaldynamics.duct.itemBasic.name=物品導管
 tile.thermaldynamics.duct.itemFast.name=氣動物品導管
 tile.thermaldynamics.duct.itemFlux.name=脈動物品導管
-tile.thermaldynamics.duct.itemEnder.name曲速物品導管
+tile.thermaldynamics.duct.itemEnder.name=曲速物品導管
 
 tile.thermaldynamics.duct.structure.name=結構導管
 
@@ -40,8 +40,8 @@ tile.thermaldynamics.duct.vacuum.name=真空
 item.thermaldynamics.cover.name=覆蓋板
 
 item.thermaldynamics.filter.info=限制哪些東西可以通過它.
-item.thermaldynamics.retriever.info=自我拉動遠處的物品/液體.
-item.thermaldynamics.servo.info=從設備提取物品/液體
+item.thermaldynamics.retriever.info=自我拉取遠處的物品/液體.
+item.thermaldynamics.servo.info=從設備抽取物品/液體
 
 item.thermaldynamics.filter.0.name=過濾器
 item.thermaldynamics.filter.1.name=硬化過濾器
@@ -70,7 +70,7 @@ info.thermaldynamics.duct.energy=傳輸RF.
 info.thermaldynamics.duct.fluid=傳輸液體.
 info.thermaldynamics.duct.item=傳輸物品.
 info.thermaldynamics.duct.structure=提供外部架構.
-info.thermaldynamics.duct.crafting=合成物品.
+info.thermaldynamics.duct.crafting=合成用物品.
 info.thermaldynamics.duct.cover=結合一個方塊來打造覆蓋板.
 info.thermaldynamics.duct.dense=大幅增加路徑長度.
 info.thermaldynamics.duct.vacuum=大幅降低路徑長度.
@@ -104,12 +104,12 @@ info.thermaldynamics.filter.incRetainSize=增加最大保留物品數
 info.thermaldynamics.filter.decRetainSize=減少最大保留物品數
 info.thermaldynamics.filter.zeroRetainSize=無限
 
-info.thermaldynamics.servo.incStackSize=增加抽取堆棧數量
-info.thermaldynamics.servo.decStackSize=減少抽取堆棧數量
+info.thermaldynamics.servo.incStackSize=增加抽取堆疊數量
+info.thermaldynamics.servo.decStackSize=減少抽取堆疊數量
 
 info.thermaldynamics.servo.extractRate=抽出率
 info.thermaldynamics.servo.speedBoost=速度提升
-info.thermaldynamics.servo.maxStackSize=最大堆棧數量
+info.thermaldynamics.servo.maxStackSize=最大堆疊數量
 info.thermaldynamics.servo.redstoneExt=需要紅石信號
 info.thermaldynamics.servo.redstoneInt=內部紅石控制
 info.thermaldynamics.servo.slotMulti=抽出多格的物品.
