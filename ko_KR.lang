@@ -1,0 +1,119 @@
+itemGroup.thermaldynamics.creativeTab=써멀 다이나믹스
+
+tile.thermaldynamics.duct=덕트
+tile.thermaldynamics.duct.energyBasic.name=리드스톤 플럭스 덕트
+tile.thermaldynamics.duct.energyHardened.name=경화 플럭스 덕트
+tile.thermaldynamics.duct.energyReinforced.name=레드스톤 플럭스 덕트
+tile.thermaldynamics.duct.energyReinforcedEmpty.name=레드스톤 플럭스 덕트 (빔)
+tile.thermaldynamics.duct.energyResonant.name=공진 플럭스 덕트
+tile.thermaldynamics.duct.energyResonantEmpty.name=공진 플럭스 덕트 (빔)
+tile.thermaldynamics.duct.energySuperconductor.name=초냉각 플럭스 덕트
+tile.thermaldynamics.duct.energySuperconductorEmpty.name=초냉각 플럭스 덕트 (빔)
+
+tile.thermaldynamics.duct.fluidBasic.name=액체 덕트
+tile.thermaldynamics.duct.fluidHardened.name=경화 액체 덕트
+tile.thermaldynamics.duct.fluidFlux.name=플럭스-액체 덕트
+
+tile.thermaldynamics.duct.itemBasic.name=아이템 덕트
+tile.thermaldynamics.duct.itemFast.name=가속 아이템 덕트
+tile.thermaldynamics.duct.itemFlux.name=플럭스-아이템 덕트
+tile.thermaldynamics.duct.itemEnder.name=워프 아이템 덕트
+
+tile.thermaldynamics.duct.structure.name=건축용 덕트
+
+tile.thermaldynamics.duct.energySupercond.info=여유 운송량이 없습니다.
+
+tile.thermaldynamics.duct.fluidBasic.info=운송 액체의 온도가 매우 높거나 낮으면 망가집니다.
+tile.thermaldynamics.duct.fluidHardened.info=온도에 상관없이 모든 액체를 운송합니다.
+tile.thermaldynamics.duct.fluidFlux.info=액체와 RF를 같이 운송합니다.
+
+tile.thermaldynamics.duct.itemBasic.info=아이템을 운송합니다.
+tile.thermaldynamics.duct.itemFast.info=발광석이 주입되었습니다. 아이템이 좀 더 빠르게 운송됩니다.
+tile.thermaldynamics.duct.itemEnder.info=RF를 사용하여 즉시 아이템을 운송합니다.
+tile.thermaldynamics.duct.itemFlux.info=아이템과 RF를 같이 운송합니다.
+
+tile.thermaldynamics.duct.structure.info=건축에 도움이됩니다.
+
+tile.thermaldynamics.duct.opaque.name=(불투명)
+tile.thermaldynamics.duct.dense.name=Dense
+tile.thermaldynamics.duct.vacuum.name=Vacuum
+
+item.thermaldynamics.cover.name=덮개
+
+item.thermaldynamics.filter.info=Restricts what may pass through it.
+item.thermaldynamics.retriever.info=Pulls distant items/fluids to itself.
+item.thermaldynamics.servo.info=Extracts items/fluids from something.
+
+item.thermaldynamics.filter.0.name=필터
+item.thermaldynamics.filter.1.name=경화 필터
+item.thermaldynamics.filter.2.name=강화 필터
+item.thermaldynamics.filter.3.name=시그날룸 필터
+item.thermaldynamics.filter.4.name=공진 필터
+
+item.thermaldynamics.servo.0.name=서보
+item.thermaldynamics.servo.1.name=경화 서보
+item.thermaldynamics.servo.2.name=강화 서보
+item.thermaldynamics.servo.3.name=시그날룸 서보
+item.thermaldynamics.servo.4.name=공진 서보
+
+item.thermaldynamics.retriever.0.name=리트리버
+item.thermaldynamics.retriever.1.name=경화 리트리버
+item.thermaldynamics.retriever.2.name=강화 리트리버
+item.thermaldynamics.retriever.3.name=시그날룸 리트리버
+item.thermaldynamics.retriever.4.name=공진 리트리버
+
+info.thermaldynamics.capacitance=Capacitance
+info.thermaldynamics.transfer=Transfer
+info.thermaldynamics.transferConnection=Transfer amount is per connection.
+info.thermaldynamics.transferFluid=Transfer rate varies by fluid.
+
+info.thermaldynamics.duct.energy=Transfers Redstone Flux (RF).
+info.thermaldynamics.duct.fluid=Transfers Fluids.
+info.thermaldynamics.duct.item=Transfers Items.
+info.thermaldynamics.duct.structure=Provides Structure.
+info.thermaldynamics.duct.crafting=Crafting Item.
+info.thermaldynamics.duct.cover=Combine with a Block to create Covers.
+info.thermaldynamics.duct.dense=Increases path length dramatically.
+info.thermaldynamics.duct.vacuum=Decreases path length dramatically.
+
+info.thermaldynamics.filter.whiteList=Blacklist
+info.thermaldynamics.filter.metadata=Metadata
+info.thermaldynamics.filter.nbt=NBT
+info.thermaldynamics.filter.oreDict=Ore Dictionary
+info.thermaldynamics.filter.modSorting=Mod Owner
+
+info.thermaldynamics.filter.whiteList.off=Whitelist
+info.thermaldynamics.filter.whiteList.on=Blacklist
+info.thermaldynamics.filter.metadata.off=Use Metadata
+info.thermaldynamics.filter.metadata.on=Ignore Metadata
+info.thermaldynamics.filter.nbt.off=Use NBT
+info.thermaldynamics.filter.nbt.on=Ignore NBT
+info.thermaldynamics.filter.oreDict.off=Use Ore Dictionary
+info.thermaldynamics.filter.oreDict.on=Ignore Ore Dictionary
+info.thermaldynamics.filter.modSorting.off=Use Mod Owner
+info.thermaldynamics.filter.modSorting.on=Ignore Mod Owner
+
+info.thermaldynamics.filter.routeType.0=Nearest-First
+info.thermaldynamics.filter.routeType.1=Furthest-First
+info.thermaldynamics.filter.routeType.2=Random
+info.thermaldynamics.filter.routeType.3=Round Robin
+
+info.thermaldynamics.filter.antiSpam.0=Allow Over-sending
+info.thermaldynamics.filter.antiSpam.1=Prevent Over-sending
+
+info.thermaldynamics.filter.incRetainSize=Inc. Max Total Items in Inventory
+info.thermaldynamics.filter.decRetainSize=Dec. Max Total Items in Inventory
+info.thermaldynamics.filter.zeroRetainSize=Infinite
+
+info.thermaldynamics.servo.incStackSize=Inc. Stack Size Extracted
+info.thermaldynamics.servo.decStackSize=Dec. Stack Size Extracted
+
+info.thermaldynamics.servo.extractRate=Extraction Rate
+info.thermaldynamics.servo.speedBoost=Speed Boost
+info.thermaldynamics.servo.maxStackSize=Max Stack Size
+info.thermaldynamics.servo.redstoneExt=Requires Redstone Signal
+info.thermaldynamics.servo.redstoneInt=Internal Redstone Control
+info.thermaldynamics.servo.slotMulti=Extracts from multiple slots.
+info.thermaldynamics.servo.slotSingle=Extracts from a single slot.
+
+recipe.thermaldynamics.covers=Cover Crafting
