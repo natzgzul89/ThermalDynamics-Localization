@@ -32,7 +32,7 @@ tile.thermaldynamics.duct.itemFast.info=발광석이 주입되었습니다. 아�
 tile.thermaldynamics.duct.itemEnder.info=RF를 사용하여 즉시 아이템을 운송합니다.
 tile.thermaldynamics.duct.itemFlux.info=아이템과 RF를 같이 운송합니다.
 
-tile.thermaldynamics.duct.structure.info=건축에 도움이됩니다.
+tile.thermaldynamics.duct.structure.info=건축에 사용됩니다.
 
 tile.thermaldynamics.duct.opaque.name=(불투명)
 tile.thermaldynamics.duct.dense.name=Dense
@@ -40,9 +40,9 @@ tile.thermaldynamics.duct.vacuum.name=Vacuum
 
 item.thermaldynamics.cover.name=덮개
 
-item.thermaldynamics.filter.info=Restricts what may pass through it.
-item.thermaldynamics.retriever.info=Pulls distant items/fluids to itself.
-item.thermaldynamics.servo.info=Extracts items/fluids from something.
+item.thermaldynamics.filter.info=덕트의 운송제한을 설정합니다.
+item.thermaldynamics.retriever.info=연결된 곳에서 아이템 또는 액체를 가져옵니다.
+item.thermaldynamics.servo.info=아이템 또는 액체를 추출합니다.
 
 item.thermaldynamics.filter.0.name=필터
 item.thermaldynamics.filter.1.name=경화 필터
@@ -65,41 +65,41 @@ item.thermaldynamics.retriever.4.name=공진 리트리버
 info.thermaldynamics.capacitance=Capacitance
 info.thermaldynamics.transfer=Transfer
 info.thermaldynamics.transferConnection=Transfer amount is per connection.
-info.thermaldynamics.transferFluid=Transfer rate varies by fluid.
+info.thermaldynamics.transferFluid=운송 속도는 액체마다 다릅니다.
 
-info.thermaldynamics.duct.energy=Transfers Redstone Flux (RF).
-info.thermaldynamics.duct.fluid=Transfers Fluids.
-info.thermaldynamics.duct.item=Transfers Items.
-info.thermaldynamics.duct.structure=Provides Structure.
-info.thermaldynamics.duct.crafting=Crafting Item.
-info.thermaldynamics.duct.cover=Combine with a Block to create Covers.
+info.thermaldynamics.duct.energy=RF를 운송합니다.
+info.thermaldynamics.duct.fluid=액체를 운송합니다.
+info.thermaldynamics.duct.item=아이템을 운송합니다.
+info.thermaldynamics.duct.structure=건축에 사용됩니다.
+info.thermaldynamics.duct.crafting=조합용 재료입니다.
+info.thermaldynamics.duct.cover=블록과 조합하여 덮개를 제작합니다.
 info.thermaldynamics.duct.dense=Increases path length dramatically.
 info.thermaldynamics.duct.vacuum=Decreases path length dramatically.
 
-info.thermaldynamics.filter.whiteList=Blacklist
-info.thermaldynamics.filter.metadata=Metadata
+info.thermaldynamics.filter.whiteList=금지 항목
+info.thermaldynamics.filter.metadata=메타 데이터
 info.thermaldynamics.filter.nbt=NBT
-info.thermaldynamics.filter.oreDict=Ore Dictionary
-info.thermaldynamics.filter.modSorting=Mod Owner
+info.thermaldynamics.filter.oreDict=오어 딕셔너리
+info.thermaldynamics.filter.modSorting=모드 정렬
 
-info.thermaldynamics.filter.whiteList.off=Whitelist
-info.thermaldynamics.filter.whiteList.on=Blacklist
-info.thermaldynamics.filter.metadata.off=Use Metadata
-info.thermaldynamics.filter.metadata.on=Ignore Metadata
-info.thermaldynamics.filter.nbt.off=Use NBT
-info.thermaldynamics.filter.nbt.on=Ignore NBT
-info.thermaldynamics.filter.oreDict.off=Use Ore Dictionary
-info.thermaldynamics.filter.oreDict.on=Ignore Ore Dictionary
-info.thermaldynamics.filter.modSorting.off=Use Mod Owner
-info.thermaldynamics.filter.modSorting.on=Ignore Mod Owner
+info.thermaldynamics.filter.whiteList.off=허용 항목
+info.thermaldynamics.filter.whiteList.on=금지 항목
+info.thermaldynamics.filter.metadata.off=메타 데이터 검사
+info.thermaldynamics.filter.metadata.on=메타 데이터 무시
+info.thermaldynamics.filter.nbt.off=NBT 사용
+info.thermaldynamics.filter.nbt.on=NBT 무시
+info.thermaldynamics.filter.oreDict.off=오어 딕셔너리 사용
+info.thermaldynamics.filter.oreDict.on=오어 딕셔너리 무시
+info.thermaldynamics.filter.modSorting.off=모드 정렬 사용
+info.thermaldynamics.filter.modSorting.on=모드 정렬 무시
 
-info.thermaldynamics.filter.routeType.0=Nearest-First
-info.thermaldynamics.filter.routeType.1=Furthest-First
-info.thermaldynamics.filter.routeType.2=Random
-info.thermaldynamics.filter.routeType.3=Round Robin
+info.thermaldynamics.filter.routeType.0=근거리 우선
+info.thermaldynamics.filter.routeType.1=원거리 우선
+info.thermaldynamics.filter.routeType.2=무작위
+info.thermaldynamics.filter.routeType.3=균등 분배
 
-info.thermaldynamics.filter.antiSpam.0=Allow Over-sending
-info.thermaldynamics.filter.antiSpam.1=Prevent Over-sending
+info.thermaldynamics.filter.antiSpam.0=초과 운송 허용
+info.thermaldynamics.filter.antiSpam.1=초과 운송 금지
 
 info.thermaldynamics.filter.incRetainSize=Inc. Max Total Items in Inventory
 info.thermaldynamics.filter.decRetainSize=Dec. Max Total Items in Inventory
@@ -116,4 +116,4 @@ info.thermaldynamics.servo.redstoneInt=Internal Redstone Control
 info.thermaldynamics.servo.slotMulti=Extracts from multiple slots.
 info.thermaldynamics.servo.slotSingle=Extracts from a single slot.
 
-recipe.thermaldynamics.covers=Cover Crafting
+recipe.thermaldynamics.covers=덮개 제작에 사용됩니다.
