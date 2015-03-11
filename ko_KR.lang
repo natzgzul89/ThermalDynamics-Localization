@@ -73,8 +73,8 @@ info.thermaldynamics.duct.item=아이템을 운송합니다.
 info.thermaldynamics.duct.structure=건축에 사용됩니다.
 info.thermaldynamics.duct.crafting=조합용 재료입니다.
 info.thermaldynamics.duct.cover=블록과 조합하여 덮개를 제작합니다.
-info.thermaldynamics.duct.dense=Increases path length dramatically.
-info.thermaldynamics.duct.vacuum=Decreases path length dramatically.
+info.thermaldynamics.duct.dense=일반 덕트보다 우선 순위가 낮습니다.
+info.thermaldynamics.duct.vacuum=일반 덕트보다 우선 순위가 높습니다.
 
 info.thermaldynamics.filter.whiteList=금지 항목
 info.thermaldynamics.filter.metadata=메타 데이터
@@ -101,19 +101,19 @@ info.thermaldynamics.filter.routeType.3=균등 분배
 info.thermaldynamics.filter.antiSpam.0=초과 운송 허용
 info.thermaldynamics.filter.antiSpam.1=초과 운송 금지
 
-info.thermaldynamics.filter.incRetainSize=Inc. Max Total Items in Inventory
-info.thermaldynamics.filter.decRetainSize=Dec. Max Total Items in Inventory
-info.thermaldynamics.filter.zeroRetainSize=Infinite
+info.thermaldynamics.filter.incRetainSize=인벤토리 수용 상한 증가
+info.thermaldynamics.filter.decRetainSize=인벤토리 수용 상한 감소
+info.thermaldynamics.filter.zeroRetainSize=무제한
 
-info.thermaldynamics.servo.incStackSize=Inc. Stack Size Extracted
-info.thermaldynamics.servo.decStackSize=Dec. Stack Size Extracted
+info.thermaldynamics.servo.incStackSize=중첩 갯수 증가
+info.thermaldynamics.servo.decStackSize=중첩 갯수 감소
 
-info.thermaldynamics.servo.extractRate=Extraction Rate
-info.thermaldynamics.servo.speedBoost=Speed Boost
-info.thermaldynamics.servo.maxStackSize=Max Stack Size
-info.thermaldynamics.servo.redstoneExt=Requires Redstone Signal
-info.thermaldynamics.servo.redstoneInt=Internal Redstone Control
-info.thermaldynamics.servo.slotMulti=Extracts from multiple slots.
-info.thermaldynamics.servo.slotSingle=Extracts from a single slot.
+info.thermaldynamics.servo.extractRate=추출 비율
+info.thermaldynamics.servo.speedBoost=운송 속도 배율
+info.thermaldynamics.servo.maxStackSize=최대 중첩 갯수
+info.thermaldynamics.servo.redstoneExt=레드스톤 신호 필요
+info.thermaldynamics.servo.redstoneInt=레드스톤 제어 내장
+info.thermaldynamics.servo.slotMulti=여러 곳에서 추출해옵니다.
+info.thermaldynamics.servo.slotSingle=한 곳에서 추출해옵니다.
 
 recipe.thermaldynamics.covers=덮개 제작에 사용됩니다.
