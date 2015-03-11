@@ -35,8 +35,8 @@ tile.thermaldynamics.duct.itemFlux.info=아이템과 RF를 같이 운송합니�
 tile.thermaldynamics.duct.structure.info=건축에 사용됩니다.
 
 tile.thermaldynamics.duct.opaque.name=(불투명)
-tile.thermaldynamics.duct.dense.name=Dense
-tile.thermaldynamics.duct.vacuum.name=Vacuum
+tile.thermaldynamics.duct.dense.name=압축
+tile.thermaldynamics.duct.vacuum.name=단축
 
 item.thermaldynamics.cover.name=덮개
 
@@ -62,9 +62,9 @@ item.thermaldynamics.retriever.2.name=강화 리트리버
 item.thermaldynamics.retriever.3.name=시그날룸 리트리버
 item.thermaldynamics.retriever.4.name=공진 리트리버
 
-info.thermaldynamics.capacitance=Capacitance
-info.thermaldynamics.transfer=Transfer
-info.thermaldynamics.transferConnection=Transfer amount is per connection.
+info.thermaldynamics.capacitance=용량
+info.thermaldynamics.transfer=전송량
+info.thermaldynamics.transferConnection=전송량은 각 연결마다 적용됩니다.
 info.thermaldynamics.transferFluid=운송 속도는 액체마다 다릅니다.
 
 info.thermaldynamics.duct.energy=RF를 운송합니다.
