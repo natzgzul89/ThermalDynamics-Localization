@@ -75,6 +75,7 @@ info.thermaldynamics.duct.cover=Combine with a Block to create Covers.
 info.thermaldynamics.duct.dense=Increases path length dramatically.
 info.thermaldynamics.duct.vacuum=Decreases path length dramatically.
 
+info.thermaldynamics.filter.options=Filter Options
 info.thermaldynamics.filter.whiteList=Blacklist
 info.thermaldynamics.filter.metadata=Metadata
 info.thermaldynamics.filter.nbt=NBT
