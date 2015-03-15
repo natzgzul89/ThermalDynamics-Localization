@@ -76,6 +76,7 @@ info.thermaldynamics.duct.cover=블록과 조합하여 덮개를 제작합니다
 info.thermaldynamics.duct.dense=일반 덕트보다 우선 순위가 낮습니다.
 info.thermaldynamics.duct.vacuum=일반 덕트보다 우선 순위가 높습니다.
 
+info.thermaldynamics.filter.options=분류 기능
 info.thermaldynamics.filter.whiteList=금지 항목
 info.thermaldynamics.filter.metadata=메타 데이터
 info.thermaldynamics.filter.nbt=NBT
