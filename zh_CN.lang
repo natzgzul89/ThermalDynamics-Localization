@@ -75,6 +75,7 @@ info.thermaldynamics.duct.cover=与方块合成在一起得到覆盖板.
 info.thermaldynamics.duct.dense=大幅伸长路径长度.
 info.thermaldynamics.duct.vacuum=大幅缩短路径长度.
 
+info.thermaldynamics.filter.options=过滤器选项
 info.thermaldynamics.filter.whiteList=黑名单
 info.thermaldynamics.filter.metadata=数据值
 info.thermaldynamics.filter.nbt=NBT
