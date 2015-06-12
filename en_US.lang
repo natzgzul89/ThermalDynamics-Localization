@@ -13,6 +13,7 @@ tile.thermaldynamics.duct.energySuperconductorEmpty.name=Cryo-Stabilized Fluxduc
 tile.thermaldynamics.duct.fluidBasic.name=Temperate Fluiduct
 tile.thermaldynamics.duct.fluidHardened.name=Hardened Fluiduct
 tile.thermaldynamics.duct.fluidFlux.name=Flux-Plated Fluiduct
+tile.thermaldynamics.duct.fluidSuper.name=High-pressure Super-laminar Fluiduct
 
 tile.thermaldynamics.duct.itemBasic.name=Itemduct
 tile.thermaldynamics.duct.itemFast.name=Impulse Itemduct
@@ -20,6 +21,7 @@ tile.thermaldynamics.duct.itemFlux.name=Fluctuating Itemduct
 tile.thermaldynamics.duct.itemEnder.name=Warp Itemduct
 
 tile.thermaldynamics.duct.structure.name=Structuralduct
+tile.thermaldynamics.duct.structureGlow.name=Luxduct
 
 tile.thermaldynamics.duct.energySupercond.info=Has no residual capacitance.
 
@@ -61,6 +63,8 @@ item.thermaldynamics.retriever.2.name=Reinforced Retriever
 item.thermaldynamics.retriever.3.name=Signalum Retriever
 item.thermaldynamics.retriever.4.name=Resonant Retriever
 
+item.thermaldynamics.signaller.name=Redstone Signaller
+
 info.thermaldynamics.capacitance=Capacitance
 info.thermaldynamics.transfer=Transfer
 info.thermaldynamics.transferConnection=Transfer amount is per connection.
@@ -70,6 +74,7 @@ info.thermaldynamics.duct.energy=Transfers Redstone Flux (RF).
 info.thermaldynamics.duct.fluid=Transfers Fluids.
 info.thermaldynamics.duct.item=Transfers Items.
 info.thermaldynamics.duct.structure=Provides Structure.
+info.thermaldynamics.duct.luxDuct=Glows when given a redstone signal
 info.thermaldynamics.duct.crafting=Crafting Item.
 info.thermaldynamics.duct.cover=Combine with a Block to create Covers.
 info.thermaldynamics.duct.dense=Increases path length dramatically.
