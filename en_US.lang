@@ -29,7 +29,7 @@ tile.thermaldynamics.duct.fluidBasic.info=Will break if contents are extremely h
 tile.thermaldynamics.duct.fluidHardened.info=Contents may be any temperature.
 tile.thermaldynamics.duct.fluidFlux.info=Transfers Fluids and Redstone Flux (RF).
 
-tile.thermaldynamics.duct.fluidSuper.info=Extremely high transfer rate.
+tile.thermaldynamics.duct.fluidSuper.info=Limitless transfer rate when pressurized.
 
 tile.thermaldynamics.duct.itemBasic.info=Transfers Items.
 tile.thermaldynamics.duct.itemFast.info=Glowstone-filled. Items travel more rapidly.
