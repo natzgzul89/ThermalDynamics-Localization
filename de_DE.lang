@@ -46,7 +46,7 @@ item.thermaldynamics.cover.name=Fassade
 item.thermaldynamics.filter.info=Filtert, was hindurch kann.
 item.thermaldynamics.retriever.info=Zieht entfernte Items oder Flüssigkeiten an.
 item.thermaldynamics.servo.info=Extrahiert Items oder Flüssigkeiten.
-item.thermaldynamics.relay.info=Transmits redstone signals.
+item.thermaldynamics.relay.info=Überträgt Redstone-Signale.
 
 item.thermaldynamics.filter.0.name=Filter
 item.thermaldynamics.filter.1.name=Gehärteter Filter
