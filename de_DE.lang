@@ -13,6 +13,7 @@ tile.thermaldynamics.duct.energySuperconductorEmpty.name=Kryotheum-Stabilisierte
 tile.thermaldynamics.duct.fluidBasic.name=Temperiertes Fluidukt
 tile.thermaldynamics.duct.fluidHardened.name=Gehärtetes Fluidukt
 tile.thermaldynamics.duct.fluidFlux.name=Energie-Plattiertes Fluidukt
+tile.thermaldynamics.duct.fluidSuper.name=Super-Lamellen Fluidukt
 
 tile.thermaldynamics.duct.itemBasic.name=Itemdukt
 tile.thermaldynamics.duct.itemFast.name=Impuls-Itemdukt
@@ -20,12 +21,15 @@ tile.thermaldynamics.duct.itemFlux.name=Energiegeladenes Itemdukt
 tile.thermaldynamics.duct.itemEnder.name=Warp-Itemdukt
 
 tile.thermaldynamics.duct.structure.name=Strukturdukt
+tile.thermaldynamics.duct.structureGlow.name=Luxdukt
 
 tile.thermaldynamics.duct.energySupercond.info=Hat keine interne Restkapazität.
 
 tile.thermaldynamics.duct.fluidBasic.info=Nicht für extrem kalte oder heisse Flüssigkeiten geeignet.
 tile.thermaldynamics.duct.fluidHardened.info=Für Flüssigkeiten jeder Temperatur geeignet.
 tile.thermaldynamics.duct.fluidFlux.info=Überträgt Flüssigkeiten und Energie (RF).
+
+tile.thermaldynamics.duct.fluidSuper.info=Unbegrenzte Übertragungsrate wenn unter Druck.
 
 tile.thermaldynamics.duct.itemBasic.info=Überträgt Items.
 tile.thermaldynamics.duct.itemFast.info=Überträgt Items schneller, da Glowstone-gefüllt.
@@ -62,16 +66,20 @@ item.thermaldynamics.retriever.2.name=Verstärkter Anzieher
 item.thermaldynamics.retriever.3.name=Signalum-Anzieher
 item.thermaldynamics.retriever.4.name=Resonanter Anzieher
 
+item.thermaldynamics.relay.name=Redstone-Relais
+
 info.thermaldynamics.capacitance=Kapazität
 info.thermaldynamics.transfer=Transfer
 info.thermaldynamics.transferConnection=Transfer-Menge ist pro Verbindung.
 info.thermaldynamics.transferFluid=Transferrate variiert je nach Flüssigkeit.
+info.thermaldynamics.toggle=Rechtsklick, um Modus zu wechseln
 
 info.thermaldynamics.duct.energy=Überträgt Energie (RF).
 info.thermaldynamics.duct.fluid=Überträgt Flüssigkeiten.
 info.thermaldynamics.duct.item=Überträgt Items.
 info.thermaldynamics.duct.structure=Bietet Struktur.
-info.thermaldynamics.duct.crafting=Crafting Item.
+info.thermaldynamics.duct.light=Gibt Licht ab bei Redstone-Signal.
+info.thermaldynamics.duct.crafting=Crafting-Item.
 info.thermaldynamics.duct.cover=Mit Block kombinieren, um Fassaden zu craften.
 info.thermaldynamics.duct.dense=Verlängert Pfadlänge enorm.
 info.thermaldynamics.duct.vacuum=Verkürzt Pfadlänge enorm.
