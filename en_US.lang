@@ -1,4 +1,5 @@
 itemGroup.thermaldynamics.creativeTab=Thermal Dynamics
+itemGroup.thermaldynamics.creativeTabCovers=Thermal Dynamics: Covers
 
 tile.thermaldynamics.duct=Duct
 tile.thermaldynamics.duct.energyBasic.name=Leadstone Fluxduct
