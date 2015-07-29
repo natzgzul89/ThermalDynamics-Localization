@@ -29,7 +29,7 @@ tile.thermaldynamics.duct.fluidBasic.info=Nicht für extrem kalte oder heisse Fl
 tile.thermaldynamics.duct.fluidHardened.info=Für Flüssigkeiten jeder Temperatur geeignet.
 tile.thermaldynamics.duct.fluidFlux.info=Überträgt Flüssigkeiten und Energie (RF).
 
-tile.thermaldynamics.duct.fluidSuper.info=Unbegrenzte Übertragungsrate wenn unter Druck.
+tile.thermaldynamics.duct.fluidSuper.info=Grenzenlose Übertragungsrate, wenn unter Druck stehend.
 
 tile.thermaldynamics.duct.itemBasic.info=Überträgt Items.
 tile.thermaldynamics.duct.itemFast.info=Überträgt Items schneller, da Glowstone-gefüllt.
@@ -37,7 +37,7 @@ tile.thermaldynamics.duct.itemEnder.info=Benötigt Energie (RF), um Items sofort
 tile.thermaldynamics.duct.itemFlux.info=Überträgt Items and Energie (RF).
 tile.thermaldynamics.duct.structure.info=Bietet Struktur.
 
-tile.thermaldynamics.duct.opaque.name=(Opak)
+tile.thermaldynamics.duct.opaque.name=(Undurchsichtig)
 tile.thermaldynamics.duct.dense.name=Dichtes
 tile.thermaldynamics.duct.vacuum.name=Vakuum
 
@@ -46,7 +46,7 @@ item.thermaldynamics.cover.name=Fassade
 item.thermaldynamics.filter.info=Filtert, was hindurch kann.
 item.thermaldynamics.retriever.info=Zieht entfernte Items oder Flüssigkeiten an.
 item.thermaldynamics.servo.info=Extrahiert Items oder Flüssigkeiten.
-item.thermaldynamics.relay.info=Überträgt Redstone-Signale.
+item.thermaldynamics.relay.info=Transmits redstone signals.
 
 item.thermaldynamics.filter.0.name=Filter
 item.thermaldynamics.filter.1.name=Gehärteter Filter
@@ -66,41 +66,41 @@ item.thermaldynamics.retriever.2.name=Verstärkter Anzieher
 item.thermaldynamics.retriever.3.name=Signalum-Anzieher
 item.thermaldynamics.retriever.4.name=Resonanter Anzieher
 
-item.thermaldynamics.relay.name=Redstone-Relais
+item.thermaldynamics.relay.name=Redstone Relais
 
 info.thermaldynamics.capacitance=Kapazität
 info.thermaldynamics.transfer=Transfer
 info.thermaldynamics.transferConnection=Transfer-Menge ist pro Verbindung.
 info.thermaldynamics.transferFluid=Transferrate variiert je nach Flüssigkeit.
-info.thermaldynamics.toggle=Rechtsklick, um Modus zu wechseln
+info.thermaldynamics.toggle=Rechtsklick, um den Modus umzuschalten.
 
 info.thermaldynamics.duct.energy=Überträgt Energie (RF).
 info.thermaldynamics.duct.fluid=Überträgt Flüssigkeiten.
 info.thermaldynamics.duct.item=Überträgt Items.
 info.thermaldynamics.duct.structure=Bietet Struktur.
-info.thermaldynamics.duct.light=Gibt Licht ab bei Redstone-Signal.
-info.thermaldynamics.duct.crafting=Crafting-Item.
+info.thermaldynamics.duct.lightLeuchtet, wenn ein Redstonesignal anliegt.
+info.thermaldynamics.duct.crafting=Crafting Item.
 info.thermaldynamics.duct.cover=Mit Block kombinieren, um Fassaden zu craften.
 info.thermaldynamics.duct.dense=Verlängert Pfadlänge enorm.
 info.thermaldynamics.duct.vacuum=Verkürzt Pfadlänge enorm.
 
 info.thermaldynamics.filter.options=Filteroptionen
-info.thermaldynamics.filter.whiteList=Blacklist
-info.thermaldynamics.filter.metadata=Metadata
+info.thermaldynamics.filter.whiteList=Ausschlußliste
+info.thermaldynamics.filter.metadata=Metadaten
 info.thermaldynamics.filter.nbt=NBT
-info.thermaldynamics.filter.oreDict=Ore Dictionary
-info.thermaldynamics.filter.modSorting=Mod Owner
+info.thermaldynamics.filter.oreDict=Erz-Verzeichnis
+info.thermaldynamics.filter.modSorting=Mod-Ersteller
 
-info.thermaldynamics.filter.whiteList.off=Whitelist
-info.thermaldynamics.filter.whiteList.on=Blacklist
-info.thermaldynamics.filter.metadata.off=Nutze Metadata
-info.thermaldynamics.filter.metadata.on=Ignoriere Metadata
+info.thermaldynamics.filter.whiteList.off=Einschlußliste
+info.thermaldynamics.filter.whiteList.on=Ausschlußliste
+info.thermaldynamics.filter.metadata.off=Nutze Metadaten
+info.thermaldynamics.filter.metadata.on=Ignoriere Metadaten
 info.thermaldynamics.filter.nbt.off=Nutze NBT
 info.thermaldynamics.filter.nbt.on=Ignoriere NBT
-info.thermaldynamics.filter.oreDict.off=Nutze Ore Dictionary
-info.thermaldynamics.filter.oreDict.on=Ignoriere Ore Dictionary
-info.thermaldynamics.filter.modSorting.off=Nutze Mod Owner
-info.thermaldynamics.filter.modSorting.on=Ignoriere Mod Owner
+info.thermaldynamics.filter.oreDict.off=Nutze Erz-Verzeichnis
+info.thermaldynamics.filter.oreDict.on=Ignoriere Erz-Verzeichnis
+info.thermaldynamics.filter.modSorting.off=Nutze Mod-Ersteller
+info.thermaldynamics.filter.modSorting.on=Ignoriere Mod-Ersteller
 
 info.thermaldynamics.filter.routeType.0=Nächste zuerst
 info.thermaldynamics.filter.routeType.1=Entfernteste zuerst
