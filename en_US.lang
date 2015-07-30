@@ -127,3 +127,26 @@ info.thermaldynamics.servo.slotMulti=Extracts from multiple slots.
 info.thermaldynamics.servo.slotSingle=Extracts from a single slot.
 
 recipe.thermaldynamics.covers=Cover Crafting
+
+info.thermaldynamics.relay.invert.0=Scaled
+info.thermaldynamics.relay.invert.1=Inverted Scaled
+info.thermaldynamics.relay.invert.2=Threshold
+info.thermaldynamics.relay.invert.3=Inverted Threshold
+
+info.thermaldynamics.relay.type.0=Redstone Input
+info.thermaldynamics.relay.type.1=Redstone Output
+info.thermaldynamics.relay.type.2=Comparator Input
+
+info.thermaldynamics.relay.threshold=Threshold >=
+
+info.thermaldynamics.relay.relayRS=Relay Power
+info.thermaldynamics.relay.gridRS=Duct Power
+
+info.thermaldynamics.info.duct=-Duct Info-
+info.thermaldynamics.info.attachment=-Attachment Info-
+info.thermaldynamics.info.size=Size
+info.thermaldynamics.info.redstone=Redstone
+info.thermaldynamics.info.items=Items
+info.thermaldynamics.info.fluid=Fluid
+info.thermaldynamics.info.fluidThroughput=Max Fluid Throughput
+info.thermaldynamics.info.energy=RF
