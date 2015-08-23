@@ -78,7 +78,7 @@ info.thermaldynamics.duct.energy=Überträgt Energie (RF).
 info.thermaldynamics.duct.fluid=Überträgt Flüssigkeiten.
 info.thermaldynamics.duct.item=Überträgt Items.
 info.thermaldynamics.duct.structure=Bietet Struktur.
-info.thermaldynamics.duct.lightLeuchtet, wenn ein Redstonesignal anliegt.
+info.thermaldynamics.duct.light=Leuchtet, wenn ein Redstonesignal anliegt.
 info.thermaldynamics.duct.crafting=Crafting Item.
 info.thermaldynamics.duct.cover=Mit Block kombinieren, um Fassaden zu craften.
 info.thermaldynamics.duct.dense=Verlängert Pfadlänge enorm.
