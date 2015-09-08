@@ -1,4 +1,5 @@
 itemGroup.thermaldynamics.creativeTab=써멀 다이나믹스
+itemGroup.thermaldynamics.creativeTabCovers=써멀 다이나믹스: 덮개
 
 tile.thermaldynamics.duct=덕트
 tile.thermaldynamics.duct.energyBasic.name=납 플럭스덕트
@@ -13,6 +14,7 @@ tile.thermaldynamics.duct.energySuperconductorEmpty.name=빈 초냉각 플럭스
 tile.thermaldynamics.duct.fluidBasic.name=플루이덕트
 tile.thermaldynamics.duct.fluidHardened.name=경화 플루이덕트
 tile.thermaldynamics.duct.fluidFlux.name=전도 플루이덕트
+tile.thermaldynamics.duct.fluidSuper.name=초층류 플루이덕트
 
 tile.thermaldynamics.duct.itemBasic.name=아이템덕트
 tile.thermaldynamics.duct.itemFast.name=가속 아이템덕트
@@ -20,6 +22,7 @@ tile.thermaldynamics.duct.itemFlux.name=전도-아이템덕트
 tile.thermaldynamics.duct.itemEnder.name=워프 아이템덕트
 
 tile.thermaldynamics.duct.structure.name=구조용 덕트
+tile.thermaldynamics.duct.structureGlow.name=조명 덕트
 
 tile.thermaldynamics.duct.energySupercond.info=여유 운송량이 없습니다.
 
@@ -27,11 +30,12 @@ tile.thermaldynamics.duct.fluidBasic.info=운송 액체의 온도가 매우 높�
 tile.thermaldynamics.duct.fluidHardened.info=온도에 상관없이 모든 액체를 운송합니다.
 tile.thermaldynamics.duct.fluidFlux.info=액체와 RF를 같이 운송합니다.
 
+tile.thermaldynamics.duct.fluidSuper.info=제한없이 액체를 운송합니다.
+
 tile.thermaldynamics.duct.itemBasic.info=아이템을 운송합니다.
 tile.thermaldynamics.duct.itemFast.info=발광석이 주입되었습니다. 아이템이 좀 더 빠르게 운송됩니다.
 tile.thermaldynamics.duct.itemEnder.info=RF를 사용하여 즉시 아이템을 운송합니다.
 tile.thermaldynamics.duct.itemFlux.info=아이템과 RF를 같이 운송합니다.
-
 tile.thermaldynamics.duct.structure.info=건축에 사용됩니다.
 
 tile.thermaldynamics.duct.opaque.name=(불투명)
@@ -43,6 +47,7 @@ item.thermaldynamics.cover.name=덮개
 item.thermaldynamics.filter.info=덕트의 운송제한을 설정합니다.
 item.thermaldynamics.retriever.info=연결된 곳에서 아이템 또는 액체를 가져옵니다.
 item.thermaldynamics.servo.info=아이템 또는 액체를 추출합니다.
+item.thermaldynamics.relay.info=레드스톤 신호를 방출합니다.
 
 item.thermaldynamics.filter.0.name=필터
 item.thermaldynamics.filter.1.name=경화 필터
@@ -62,15 +67,19 @@ item.thermaldynamics.retriever.2.name=강화 리트리버
 item.thermaldynamics.retriever.3.name=시그날룸 리트리버
 item.thermaldynamics.retriever.4.name=공진 리트리버
 
+item.thermaldynamics.relay.name=레드스톤 릴레이
+
 info.thermaldynamics.capacitance=용량
 info.thermaldynamics.transfer=전송량
 info.thermaldynamics.transferConnection=전송량은 각 연결마다 적용됩니다.
 info.thermaldynamics.transferFluid=운송 속도는 액체마다 다릅니다.
+info.thermaldynamics.toggle=우클릭으로 모드를 변경합니다.
 
 info.thermaldynamics.duct.energy=RF를 운송합니다.
 info.thermaldynamics.duct.fluid=액체를 운송합니다.
 info.thermaldynamics.duct.item=아이템을 운송합니다.
 info.thermaldynamics.duct.structure=건축에 사용됩니다.
+info.thermaldynamics.duct.light=레드스톤 신호를 받으면 빛이 납니다.
 info.thermaldynamics.duct.crafting=조합용 재료입니다.
 info.thermaldynamics.duct.cover=블록과 조합하여 덮개를 제작합니다.
 info.thermaldynamics.duct.dense=일반 덕트보다 우선 순위가 낮습니다.
@@ -118,3 +127,41 @@ info.thermaldynamics.servo.slotMulti=여러 곳에서 추출해옵니다.
 info.thermaldynamics.servo.slotSingle=한 곳에서 추출해옵니다.
 
 recipe.thermaldynamics.covers=덮개 제작에 사용됩니다.
+
+info.thermaldynamics.relay.invert.0=Scaled
+info.thermaldynamics.relay.invert.1=Inverted Scaled
+info.thermaldynamics.relay.invert.2=Threshold
+info.thermaldynamics.relay.invert.3=Inverted Threshold
+
+info.thermaldynamics.relay.type.0=Redstone Input
+info.thermaldynamics.relay.type.1=Redstone Output
+info.thermaldynamics.relay.type.2=Comparator Input
+
+info.thermaldynamics.relay.threshold=Threshold >=
+
+info.thermaldynamics.relay.relayRS=Relay Power
+info.thermaldynamics.relay.gridRS=Duct Power
+
+info.thermaldynamics.info.duct=-Duct Info-
+info.thermaldynamics.info.attachment=-Attachment Info-
+info.thermaldynamics.info.size=Size
+info.thermaldynamics.info.redstone=Redstone
+info.thermaldynamics.info.items=Items
+info.thermaldynamics.info.fluid=Fluid
+info.thermaldynamics.info.fluidThroughput=Max Fluid Throughput
+info.thermaldynamics.info.energy=RF
+info.thermaldynamics.info.tracker.cur=Current Level
+info.thermaldynamics.info.tracker.avg=5 Sec. Avg. Level
+info.thermaldynamics.info.tracker.avgInOut=5 Sec. Avg. In/Out
+info.thermaldynamics.info.tracker.activate=Starting tracking
+
+info.thermaldynamics.transport.name=Transport Duct
+info.thermaldynamics.transport.config=Config
+info.thermaldynamics.transport.waiting=Waiting for Info
+info.thermaldynamics.transport.nodest=No destinations
+info.thermaldynamics.transport.unnamed=Unnamed
+
+tile.thermaldynamics.duct.transport.name=Transport Duct
+tile.thermaldynamics.duct.transportLongRange.name=Ranged Transport Duct
+tile.thermaldynamics.duct.transportAcceleration.name=Accelerating Transport Duct
+tile.thermaldynamics.duct.transportCrafting.name=Transport Duct (Untreated)
