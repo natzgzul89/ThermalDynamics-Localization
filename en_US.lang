@@ -161,7 +161,7 @@ info.thermaldynamics.transport.waiting=Waiting for Info
 info.thermaldynamics.transport.nodest=No destinations
 info.thermaldynamics.transport.unnamed=Unnamed
 
-tile.thermaldynamics.duct.transport.name=Transport Duct
-tile.thermaldynamics.duct.transportLongRange.name=Ranged Transport Duct
-tile.thermaldynamics.duct.transportAcceleration.name=Accelerating Transport Duct
-tile.thermaldynamics.duct.transportCrafting.name=Transport Duct (Untreated)
+tile.thermaldynamics.duct.transport.name=Viaduct
+tile.thermaldynamics.duct.transportLongRange.name=Long Range Viaduct
+tile.thermaldynamics.duct.transportAcceleration.name=Long Range Linking Viaduct
+tile.thermaldynamics.duct.transportCrafting.name=Viaduct (Untreated)
