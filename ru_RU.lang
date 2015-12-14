@@ -38,11 +38,11 @@ tile.thermaldynamics.duct.itemEnder.info=Использует Redstone Flux (RF)
 tile.thermaldynamics.duct.itemFlux.info=Переносит предметы и Redstone Flux (RF).
 tile.thermaldynamics.duct.structure.info=Обеспечивает структуру.
 
-tile.thermaldynamics.duct.opaque.name=(Непрозрачная)
-tile.thermaldynamics.duct.dense.name=Плотная
-tile.thermaldynamics.duct.vacuum.name=Вакуумная
+tile.thermaldynamics.duct.opaque.name=%s (Непрозрачная)
+tile.thermaldynamics.duct.dense.name=Плотная %s
+tile.thermaldynamics.duct.vacuum.name=Вакуумная %s
 
-item.thermaldynamics.cover.name=Крышка
+item.thermaldynamics.cover.name=%s Крышка
 
 item.thermaldynamics.filter.info=Ограничивает то, что переходит через него.
 item.thermaldynamics.retriever.info=Тянет дальние предметы/жидкости к себе.

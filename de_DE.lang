@@ -37,11 +37,11 @@ tile.thermaldynamics.duct.itemEnder.info=Benötigt Energie (RF), um Items sofort
 tile.thermaldynamics.duct.itemFlux.info=Überträgt Items and Energie (RF).
 tile.thermaldynamics.duct.structure.info=Bietet Struktur.
 
-tile.thermaldynamics.duct.opaque.name=(Undurchsichtig)
-tile.thermaldynamics.duct.dense.name=Dichtes
-tile.thermaldynamics.duct.vacuum.name=Vakuum
+tile.thermaldynamics.duct.opaque.name=%s (Undurchsichtig)
+tile.thermaldynamics.duct.dense.name=Dichtes %s
+tile.thermaldynamics.duct.vacuum.name=Vakuum %s
 
-item.thermaldynamics.cover.name=Fassade
+item.thermaldynamics.cover.name=%s Fassade
 
 item.thermaldynamics.filter.info=Filtert, was hindurch kann.
 item.thermaldynamics.retriever.info=Zieht entfernte Items oder Flüssigkeiten an.

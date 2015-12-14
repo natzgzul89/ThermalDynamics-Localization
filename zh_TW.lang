@@ -33,11 +33,11 @@ tile.thermaldynamics.duct.itemEnder.info=使用RF讓物品隨即傳輸.
 tile.thermaldynamics.duct.itemFlux.info=同時傳送物品與RF.
 tile.thermaldynamics.duct.structure.info=提供外部架構.
 
-tile.thermaldynamics.duct.opaque.name=(不透明)
-tile.thermaldynamics.duct.dense.name=密集
-tile.thermaldynamics.duct.vacuum.name=真空
+tile.thermaldynamics.duct.opaque.name=%s (不透明)
+tile.thermaldynamics.duct.dense.name=密集 %s
+tile.thermaldynamics.duct.vacuum.name=真空 %s
 
-item.thermaldynamics.cover.name=覆蓋板
+item.thermaldynamics.cover.name=%s 覆蓋板
 
 item.thermaldynamics.filter.info=限制哪些東西可以通過它.
 item.thermaldynamics.retriever.info=自我拉取遠處的物品/液體.

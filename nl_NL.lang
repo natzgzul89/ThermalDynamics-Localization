@@ -33,11 +33,11 @@ tile.thermaldynamics.duct.itemEnder.info=Gebruik Redstone Flux (RF) om Items te 
 tile.thermaldynamics.duct.itemFlux.info=Vervoert Items en Redstone Flux (RF).
 tile.thermaldynamics.duct.structure.info=Zorgt voor structuur.
 
-tile.thermaldynamics.duct.opaque.name=(Ondoorzichtig)
-tile.thermaldynamics.duct.dense.name=Dicht
-tile.thermaldynamics.duct.vacuum.name=Vacuum
+tile.thermaldynamics.duct.opaque.name=%s (Ondoorzichtig)
+tile.thermaldynamics.duct.dense.name=Dicht %s
+tile.thermaldynamics.duct.vacuum.name=Vacuum %s
 
-item.thermaldynamics.cover.name=Beschutting
+item.thermaldynamics.cover.name=%s Beschutting
 
 item.thermaldynamics.filter.info=Begrenst wat er langs mag.
 item.thermaldynamics.retriever.info=Haalt items/vloeistoffen ver weg naar zichzelf toe.

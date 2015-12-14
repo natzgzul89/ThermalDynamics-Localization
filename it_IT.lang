@@ -33,11 +33,11 @@ tile.thermaldynamics.duct.itemEnder.info=Usa Redstone Flux (RF) per muovere gli 
 tile.thermaldynamics.duct.itemFlux.info=Trasferisce oggetti e Redstone Flux (RF).
 tile.thermaldynamics.duct.structure.info=Fornisce struttura
 
-tile.thermaldynamics.duct.opaque.name=(opaco)
-tile.thermaldynamics.duct.dense.name=denso
-tile.thermaldynamics.duct.vacuum.name=vacuo
+tile.thermaldynamics.duct.opaque.name=%s (opaco)
+tile.thermaldynamics.duct.dense.name=denso %s
+tile.thermaldynamics.duct.vacuum.name=vacuo %s
 
-item.thermaldynamics.cover.name=Copertura
+item.thermaldynamics.cover.name=%s Copertura
 
 item.thermaldynamics.filter.info=Limita ciò che può passare attraverso.
 item.thermaldynamics.retriever.info=Spinge oggetti/fluidi distanti verso se stesso.

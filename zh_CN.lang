@@ -38,11 +38,11 @@ tile.thermaldynamics.duct.itemEnder.info=使用红石通量(RF)来即时传输�
 tile.thermaldynamics.duct.itemFlux.info=同时传输物品和红石通量(RF).
 tile.thermaldynamics.duct.structure.info=提供建筑结构
 
-tile.thermaldynamics.duct.opaque.name=(不透明)
-tile.thermaldynamics.duct.dense.name=致密
-tile.thermaldynamics.duct.vacuum.name=真空
+tile.thermaldynamics.duct.opaque.name=%s (不透明)
+tile.thermaldynamics.duct.dense.name=致密 %s
+tile.thermaldynamics.duct.vacuum.name=真空 %s
 
-item.thermaldynamics.cover.name=覆盖板
+item.thermaldynamics.cover.name=%s 覆盖板
 
 item.thermaldynamics.filter.info=限制可通过它的物品的种类.
 item.thermaldynamics.retriever.info=聚集所有远处的物品/液体到它身上.

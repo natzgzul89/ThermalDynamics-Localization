@@ -37,11 +37,11 @@ tile.thermaldynamics.duct.itemEnder.info=Využívá ruditový Flux (RF) pro okam
 tile.thermaldynamics.duct.itemFlux.info=Přenáší předměty a ruditový Flux (RF).
 tile.thermaldynamics.duct.structure.info=Poskytuje strukturu.
 
-tile.thermaldynamics.duct.opaque.name=(Neprůhledná)
-tile.thermaldynamics.duct.dense.name=Tvrdá
-tile.thermaldynamics.duct.vacuum.name=Vzduchoprázdná
+tile.thermaldynamics.duct.opaque.name=%s (Neprůhledná)
+tile.thermaldynamics.duct.dense.name=Tvrdá %s
+tile.thermaldynamics.duct.vacuum.name=Vzduchoprázdná %s
 
-item.thermaldynamics.cover.name=Kryt
+item.thermaldynamics.cover.name=%s Kryt
 
 item.thermaldynamics.filter.info=Omezuje co může projít skrz.
 item.thermaldynamics.retriever.info=Přitahuje vzdálené předměty/tekutiny k sobě.
