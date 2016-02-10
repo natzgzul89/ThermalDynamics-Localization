@@ -44,6 +44,10 @@ info.thermaldynamics.duct.cover=Combine with a Block to create Covers.
 info.thermaldynamics.duct.dense=Increases path length dramatically.
 info.thermaldynamics.duct.vacuum=Decreases path length dramatically.
 
+info.thermaldynamics.duct.transport=Transfers Players. Whoosh.
+info.thermaldynamics.duct.transportLongRange=Fast transport between two specific locations.
+info.thermaldynamics.duct.transportCrossover=End points for Long Range Viaducts. Required.
+
 info.thermaldynamics.filter.options=Filter Options
 info.thermaldynamics.filter.whiteList=Blacklist
 info.thermaldynamics.filter.metadata=Metadata
